@@ -23,7 +23,7 @@ Rule-Forge is a powerful rule engine and automation platform that helps business
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Rule-Forge.git
+git clone https://github.com/Anonymous4717/Rule-Forge.git
 cd Rule-Forge
 ```
 
@@ -84,7 +84,7 @@ This project is licensed under the Rule-Forge License - see the [LICENSE](LICENS
 
 For support or inquiries, please contact:
 - Email: Vinaypatel95165@gmail.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/Rule-Forge/issues)
+- GitHub Issues: [Create an issue](https://github.com/Anonymous4717/Rule-Forge/issues)
 
 ## 🙏 Acknowledgments
 
